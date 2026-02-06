@@ -1,0 +1,13 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    commande_minilibx.txt                              :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mbuisson <mbuisson@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2026/02/03 10:56:25 by mbuisson          #+#    #+#              #
+#    Updated: 2026/02/03 10:56:28 by mbuisson         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+git clone https://github.com/42Paris/minilibx-linux.git minilibx/minilibx-linux
